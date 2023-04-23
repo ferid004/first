@@ -7,4 +7,4 @@ selik de qoymaq istedim
 [![](https://avatars.githubusercontent.com/u/124461794?v=4)](https://github.com/ferid004)
 
 
-***SON***
+***SON***# ferid004.github.io
